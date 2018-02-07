@@ -20,3 +20,4 @@ Some of the files used in this project were too large, so I have provided links 
 
 ## Tech
 * **Python 2**
+* **SQL**
