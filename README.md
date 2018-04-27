@@ -10,7 +10,7 @@ This repository contains by me with projects from Udacity's Data Analyst Nanodeg
 * **[Data Exploration](https://github.com/SpecCRA/dand_project04_r_exploration/blob/master/projecttemplate.rmd)**: Analyzed a dataset from StarCraft II replays found [here](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) looking for differences among player skill levels.
 * **[Data Wrangling, OpenStreetMaps](https://github.com/SpecCRA/dand_project03_data_cleaning)**: Audited, cleaned, and queried map data of San Francisco, CA. 
 * **[Data Wrangling, NBA Statistics](https://github.com/SpecCRA/nba_data_scrapers)**: Scraped, cleaned, and outputed NBA statistics from basketball-reference.com. 
-* **[Machine Learning]https://github.com/SpecCRA/nba_similar_players/blob/master/similar_player_seasons.ipynb)**: Finding the most similar NBA players using KDTree to query a dataset.
+* **[Machine Learning](https://github.com/SpecCRA/nba_similar_players/blob/master/similar_player_seasons.ipynb)**: Finding the most similar NBA players using KDTree to query a dataset.
 
 ## Contact
 **Email**: benjamin.y.xiao@gmail.com
